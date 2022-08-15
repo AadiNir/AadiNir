@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AadiNir
-- 👀 I’m interested in Web development, competetive coding, android development, machine learning 
-- 🌱 I’m currently learning React native (web development)
-- 💞️ I’m looking to collaborate on anyone
+- 👀 I’m interested in Web development, competetive coding
+- 🌱 I’m a MERN Developer
+- 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me mail me on aadiniranjan27@gmail.com
 
 <!---
