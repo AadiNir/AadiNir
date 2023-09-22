@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadiNir&theme=rose_pine" width="90%" alt="stats graph"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/> 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=highcontrast&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=highcontrast&hide_border=true" alt="AadiNir" />
 </div>
 
