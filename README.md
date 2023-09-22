@@ -14,6 +14,12 @@ You can click the Preview link to take a look at your changes.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadiNir&theme=rose_pine" width="90%" alt="stats graph"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/> 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=highcontrast&hide_border=true" alt="AadiNir" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNir&theme=highcontrast&hide_border=true" alt="AadiNir" />
 </div>
 
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
