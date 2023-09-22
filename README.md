@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadinir)
+![Aadithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadiNir&show_icons=true&theme=radical)
