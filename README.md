@@ -58,11 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AadiNir&layout=compact"/>
-
-[![](https://visitcount.itsvg.in/api?id=AadiNir&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AadiNr"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadiNir&theme=nord_dark">
@@ -77,9 +72,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </picture>
 
 <table border="0">
-<tr border="0">
-<td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AadiNir&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadiNir&theme=rose_pine" width="45%" alt="stats graph"/>
 </td>
 
 <td width="50%" align="center">
