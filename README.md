@@ -7,7 +7,7 @@
 
 ### About  Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to build products. I have a passion for finance and am interested in the field of web3. 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to build products. I have a passion for finance and am interested in the field of Full stack Development. 
 
 
 
